@@ -1,4 +1,4 @@
-Of course! Here's the cleaned-up `README.md` **without any markdown symbols** like `*`, `#`, or backticks — plain text format that you can use directly in your portfolio project descriptions or on your website.
+
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to the Number Guessing Game, a fun and interactive browser-based game bu
 
 🖼️ Screenshots
 
-Screenshot preview available in the repository. (You can upload a file named screenshot.png to your repo folder to show it.)
+Screenshot preview available in the repository. 
 
 🌐 Live Demo
 
@@ -62,4 +62,3 @@ LinkedIn: [https://www.linkedin.com/in/pragya-kumari-mishra-667b27200/](https://
 
 ---
 
-Let me know if you'd like this turned into a downloadable `.txt` or `.md` file too!
