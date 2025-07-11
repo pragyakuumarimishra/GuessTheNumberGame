@@ -42,7 +42,7 @@ Screenshot preview available in the repository. (You can upload a file named scr
 🌐 Live Demo
 
 Try the game here:
-[https://your-username.github.io/number-guessing-game](https://your-username.github.io/number-guessing-game)
+[https://js-learning-psi.vercel.app/]
 (Replace with your actual GitHub Pages link)
 
 📁 Project Structure
